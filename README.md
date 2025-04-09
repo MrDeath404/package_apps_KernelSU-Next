@@ -1,1 +1,2 @@
 - Read Android.mk
+- [Orginal Repo](https://github.com/KernelSU-Next/KernelSU-Next) by [rifsxd](https://github.com/rifsxd)
